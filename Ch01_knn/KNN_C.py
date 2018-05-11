@@ -10,4 +10,3 @@ def KNN(classifier):
 
     def predict(self, X):
         pass
-    
