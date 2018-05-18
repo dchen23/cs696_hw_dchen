@@ -1,3 +1,7 @@
 __pycache__/
 .vscode/
 .ipynb_checkpoints/
+smaller_train.zip
+smaller_train/
+test_set_reduced_ivie/
+test_set_reduced_ivie.zip
